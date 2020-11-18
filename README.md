@@ -1,5 +1,5 @@
 # Welcome!
-* I am a computer science student at Oregon State University
+* Computer science student at Oregon State University
 * Currently working in bioinformatics and human genetics research at the Universtiy of Michigan
 * Languages: Python, C++ (Learning), MATLAB/Simulink (Beginner - Learning in conjunction w/ basic EE concepts)
 * Interests: Embedded software systems, machine learning, computer vision, bioinformatics and self-driving cars to list a few!
