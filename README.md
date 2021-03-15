@@ -1,5 +1,6 @@
 # Welcome!
 * Computer science student at Oregon State University
+* University of Michigan Alum. - Department of Chemistry (Biochemistry)
 * Currently working in bioinformatics and human genetics research at the Universtiy of Michigan
 * Languages: Python, JavaScript (Learning)
 
