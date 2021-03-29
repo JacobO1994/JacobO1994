@@ -5,10 +5,11 @@
 * Languages: Python, C++
 * Frameworks: Django, OpenCV (Python), Biopython 
 
-<p align="center">
-[![Jacobs's github stats](https://github-readme-stats.vercel.app/api?username=JacobO1994&theme=calm)](https://github.com/JacobO1994/github-readme-stats)
+<#p align="center">
+  [![Jacobs's github stats](https://github-readme-stats.vercel.app/api?username=JacobO1994&theme=calm)](https://github.com/JacobO1994/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JacobO1994&theme=calm)](https://github.com/JacobO1994/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JacobO1994&theme=calm)](https://github.com/JacobO1994/github-readme-stats)
+
 </p>
 
 
