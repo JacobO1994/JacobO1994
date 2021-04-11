@@ -3,7 +3,7 @@
 * University of Michigan Alum. - Department of Chemistry (Biochemistry)
 * Currently working in bioinformatics and human genetics research at the Universtiy of Michigan
 * Languages: Python, C++
-* Frameworks: Django, OpenCV (Python), Biopython 
+* Frameworks: Django, OpenCV (Python), BioPython 
 
-[![Jacobs's github stats](https://github-readme-stats.vercel.app/api?username=JacobO1994&theme=calm)](https://github.com/JacobO1994/github-readme-stats)
+[![Jacobs's github stats](https://github-readme-stats.vercel.app/api?username=JacobO1994&theme=gradient)](https://github.com/JacobO1994/github-readme-stats)
 
