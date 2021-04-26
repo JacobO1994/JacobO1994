@@ -1,7 +1,6 @@
 # Welcome!
 * Computer science student at Oregon State University
-* University of Michigan Alum. - Department of Chemistry (Biochemistry)
-* Currently working in bioinformatics and human genetics research at the Universtiy of Michigan
+* Incoming software engineering intern at Bosch Automotive
 * Languages: Python, x86 Assembly (MASM), C (learning)
 * Frameworks: Django, OpenCV (Python), BioPython 
 
