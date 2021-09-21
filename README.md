@@ -1,8 +1,13 @@
-# Welcome!
-* Computer science student at Oregon State University
-* Languages: Python, x86 Assembly (MASM), C (learning)
+# Hello! 👋
 
-[![Jacobs's github stats](https://github-readme-stats.vercel.app/api?username=JacobO1994&theme=blueberry)](https://github.com/JacobO1994/github-readme-stats)
+I am a computer science student at [Oregon State University](https://eecs.oregonstate.edu/) and a chemistry almuni from the [University of Michigan](https://umich.edu/). Facinated by most topics that are CS related.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JacobO1994&layout=compact&theme=blueberry)](https://github.com/JacobO1994/github-readme-stats)
+* 📚 Currently learning Data Structures and Web Development at OSU.
+* ⚒ Interning at Robert Bosch North America working on automotive over-the-air update software.
+* 💻 Development Skills: Python, x86 Assembly, JavaScript, HTML, CSS
+* 💻 Skills Learning: C, Go, Static Code Analysis, React, Node.js
 
+## 📬 Where to find me
+* 📧 Email: ogleja@oregonstate.edu
+* 🤝 LinkedIn: [linkedin.com/jakeogle](https://www.linkedin.com/in/jakeogle/)
+* ⚙ DevPost: [devpost.com/ogleja](https://devpost.com/ogleja?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
