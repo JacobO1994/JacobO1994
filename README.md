@@ -11,3 +11,5 @@ I am a computer science student at [Oregon State University](https://eecs.oregon
 * 📧 Email: ogleja@oregonstate.edu
 * 🤝 LinkedIn: [linkedin.com/jakeogle](https://www.linkedin.com/in/jakeogle/)
 * ⚙ DevPost: [devpost.com/ogleja](https://devpost.com/ogleja?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/JacobO1994/github-readme-stats)
