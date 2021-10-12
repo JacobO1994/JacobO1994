@@ -7,7 +7,9 @@ I am a computer science student at [Oregon State University](https://eecs.oregon
 * 💻 &nbsp; Development Skills: Python, x86 Assembly, OS: Windows, MacOS, Linux (Ubuntu & WSL)
 * 💻 &nbsp; Skills Learning: C, Static Code Analysis, JS & MERN Stack for Web Development
 
-## 📬 &nbsp;Where to find me
-* 📧  &nbsp;Email: ogleja@oregonstate.edu
-* 🤝  &nbsp;LinkedIn: [linkedin.com/jakeogle](https://www.linkedin.com/in/jakeogle/)
-* ⚙  &nbsp;DevPost: [devpost.com/ogleja](https://devpost.com/ogleja?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
+## 📬 &nbsp; Where to find me
+* 📧  &nbsp; Email: ogleja@oregonstate.edu
+* 🤝 &nbsp; LinkedIn: [linkedin.com/jakeogle](https://www.linkedin.com/in/jakeogle/)
+* ⚙ &nbsp; DevPost: [devpost.com/ogleja](https://devpost.com/ogleja?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JacobO1994&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
