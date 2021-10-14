@@ -4,7 +4,7 @@ I am a computer science student at [Oregon State University](https://eecs.oregon
 
 * 📚 &nbsp; Studying: Data Structures and Web Development at OSU.
 * ⚒ &nbsp; Software Engineer Intern at Robert Bosch North America working on automotive over-the-air update software.
-* 💻 &nbsp; Development Skills: Python, JavaScript, MERN Stack x86 Assembly, OS: Windows, MacOS, Linux (Ubuntu & WSL)
+* 💻 &nbsp; Development Skills: Python, JavaScript, MERN Stack, x86 Assembly, OS: Windows, MacOS, Linux (Ubuntu & WSL)
 * 💻 &nbsp; Skills Learning: C, Static Code Analysis, Embedded & OS Topics
 
 ## 📬 &nbsp; Where to find me
