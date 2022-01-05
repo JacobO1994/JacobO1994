@@ -2,7 +2,7 @@
 
 I am a computer science student at [Oregon State University](https://eecs.oregonstate.edu/) and a chemistry almuni from the [University of Michigan](https://umich.edu/). Facinated by most topics that are CS related.
 
-* 📚 &nbsp; Studying: Data Structures and Web Development at OSU.
+* 📚 &nbsp; Currently Studying: Analysis of Algorithms & Software Engineering.
 * ⚒ &nbsp; Software Engineer Intern at Robert Bosch North America working on automotive over-the-air update software.
 * 💻 &nbsp; Development Skills: Python, JavaScript, MERN Stack, x86 Assembly, OS: Windows, MacOS, Linux (Ubuntu & WSL)
 * 💻 &nbsp; Skills Learning: C, Rust, MicroService Architecture, a bit of Go
