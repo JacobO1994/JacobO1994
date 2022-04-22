@@ -2,7 +2,7 @@
 
 I am a computer science student at [Oregon State University](https://eecs.oregonstate.edu/) and a chemistry almuni from the [University of Michigan](https://umich.edu/). Facinated by most topics that are CS related.
 
-* 📚 &nbsp; Currently Studying: Analysis of Algorithms & Software Engineering.
+* 📚 &nbsp; Currently Studying: Parallel Programming & Open Source Software.
 * ⚒ &nbsp; Software Engineer Intern.
 * 💻 &nbsp; Development Skills: Python, JavaScript, MERN Stack, x86 Assembly, OS: Windows, MacOS, Linux (Ubuntu & WSL)
 * 💻 &nbsp; Skills Learning: C/C++, Parallel Programming, OSS
