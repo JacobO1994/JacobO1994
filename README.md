@@ -4,8 +4,8 @@ I am a computer science student at [Oregon State University](https://eecs.oregon
 
 * 📚 &nbsp; Currently Studying: Parallel Programming & Open Source Software.
 * ⚒ &nbsp; Software Engineer Intern.
-* 💻 &nbsp; Development Skills: Python, JavaScript, MERN Stack, x86 Assembly, OS: Windows, MacOS, Linux (Ubuntu & WSL)
-* 💻 &nbsp; Skills Learning: C/C++, Parallel Programming, OSS
+* 💻 &nbsp; Development Skills: Python, C, C++, JavaScript, MERN Stack, x86 Assembly, OS: Windows, MacOS, Linux (Ubuntu & WSL)
+* 💻 &nbsp; Skills Learning: Parallel Programming, OSS
 
 ## 📬 &nbsp; Where to find me
 * 📧  &nbsp; Email: ogleja@oregonstate.edu
