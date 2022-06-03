@@ -4,14 +4,8 @@ I am a computer science student at [Oregon State University](https://eecs.oregon
 
 * 📚 &nbsp; Currently Studying: Parallel Programming & Open Source Software.
 * ⚒ &nbsp; Software Engineer Intern.
-* 💻 &nbsp; Development Skills: Python, C, C++, JavaScript, MERN Stack, x86 Assembly, OS: Windows, MacOS, Linux (Ubuntu & WSL)
+* 💻 &nbsp; Development Skills: Python, C, C++, JavaScript, MERN Stack, x86 Assembly, OS: Windows, MacOS, Linux
 * 💻 &nbsp; Skills Learning: Parallel Programming, OSS
-
-## 📬 &nbsp; Where to find me
-* 📧  &nbsp; Email: ogleja@oregonstate.edu
-* 🤝 &nbsp; LinkedIn: [linkedin.com/jakeogle](https://www.linkedin.com/in/jakeogle/)
-* ⚙ &nbsp; DevPost: [devpost.com/ogleja](https://devpost.com/ogleja?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
-
 
 ## Stats
 [![Jacob's GitHub stats](https://github-readme-stats.vercel.app/api?username=JacobO1994)](https://github.com/JacobO1994/github-readme-stats)
